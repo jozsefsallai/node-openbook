@@ -1,3 +1,8 @@
+## REPO MOVED TO: https://github.com/OkunaOrg/okuna-js
+## This repository is now read-only and will not be updated any longer. Please check out the repository linked above instead.
+
+* * * 
+
 # Okuna.js (beta)
 
 [![Build Status](https://travis-ci.org/jozsefsallai/okuna.js.svg)](https://travis-ci.org/jozsefsallai/okuna.js) [![Coverage Status](https://coveralls.io/repos/github/jozsefsallai/okuna.js/badge.svg?branch=master)](https://coveralls.io/github/jozsefsallai/okuna.js?branch=master) [![npm version](https://img.shields.io/npm/v/okuna.svg?style=flat)](https://www.npmjs.com/package/okuna)
